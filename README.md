@@ -1,5 +1,5 @@
-# Blog App using MERN stack
-Blog App 
+# Blog App using MERN stack.
+Blog App.
 
 # Functionalities 
 - Authentication 
