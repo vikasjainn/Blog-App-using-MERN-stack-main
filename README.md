@@ -1,7 +1,7 @@
 # Blog App using MERN stack.
 Blog App.
 
-# Functionalities 
+# Functionalities .
 - Authentication 
 - Create blog
 - Delete Blog
