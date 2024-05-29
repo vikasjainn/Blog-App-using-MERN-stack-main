@@ -1,12 +1,12 @@
-# Blog App using MERN stack.
+# Blog App using MERN stack
 Blog App.
 
-# Functionalities .
+# Functionalities 
 - Authentication 
 - Create blog
 - Delete Blog
 - Update Blog
-- View another user blog
+- View another user's blog
 
 # Screenshots
 ![Screenshot (35)](https://user-images.githubusercontent.com/67452985/172217325-4378400e-60a0-4364-aadb-89e900886a1c.png)
